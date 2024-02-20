@@ -1,0 +1,4 @@
+1.检查是否安装python和VScode,如果没有安装,运行新建文件夹中的python-3.7.5-amd64,VSCodeUserSetup-x64-1.48.2 进行安装，安装python记得选择for all user
+2.进入C:\Program Files\,选中python37文件夹右键,点击安全----依次选择组或用户名,选中下面完全控制,允许下面的方框,点击应用
+3.用VScode打开aidoudizhu文件夹，执行命令：pip install -r requirements.txt
+4.在jjclient文件夹下创建imgs文件夹
